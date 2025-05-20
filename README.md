@@ -25,7 +25,7 @@ scrapper/
 ├── chromedriver.exe
 ├── part_numbers.csv         # Input file (with header and part numbers)
 ├── scraped_data.csv         # Output file (automatically created)
-└── scraper_script.py        # The main script
+└── scrapper.py        # The main script
 ```
 
 ## 📄 Input CSV Format
